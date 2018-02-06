@@ -35,7 +35,9 @@
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png",
     "favicon": "",
-    "noImageResize": ""
+    "noImageResize": "",
+    "siteUrl": "",
+    "sitemapSwitcherAuto": "on"
   },
   "pages": {
     "index.html": {
